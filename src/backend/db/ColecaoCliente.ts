@@ -30,6 +30,6 @@ export default class ColecaoCliente implements ClienteRepositorio {
     }
 
     private colecao() {
-        
+
     }
 }
